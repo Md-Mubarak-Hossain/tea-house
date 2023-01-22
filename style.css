@@ -1,0 +1,57 @@
+.section1{
+  margin: auto;
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+}
+.heading{
+height: 300px;
+width: 628px;
+left: 230px;
+top: 68.27880859375px;
+font-family: Manrope;
+font-size: 80px;
+font-weight: 800;
+line-height: 100px;
+letter-spacing: 0px;
+text-align: left;
+}
+.paragraph{
+height: 60px;
+width: 513px;
+left: 230px;
+top: 398.27880859375px;
+border-radius: nullpx;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.banner{
+position: absolute;
+width: 655.04px;
+height: 498.72px;
+left: 871.01px;
+top: 121.14px;
+}
+.banner img{
+    width:60%;
+}
+.rating{
+position: absolute;
+width: 255px;
+height: 100px;
+left: 952px;
+top: 508px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: whitesmoke;
+}
+.star{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
